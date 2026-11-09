@@ -303,6 +303,24 @@ Good records build great businesses.
 
 ---
 
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard/screenshots/01-executive-overview.png)
+
+### Client Performance
+![Client Performance](dashboard/screenshots/02-client-performance.png)
+
+### Operations Performance
+![Operations Performance](dashboard/screenshots/03-operations-performance.png)
+
+### Workforce Performance
+![Workforce Performance](dashboard/screenshots/04-workforce-performance.png)
+
+### Receivables & Collections
+![Receivables & Collections](dashboard/screenshots/05-receivables-performance.png)
+
 ## Important Note
 
 Vertex Integrated Services Ltd. is a fictional organisation.
