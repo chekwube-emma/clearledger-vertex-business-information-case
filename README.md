@@ -11,6 +11,17 @@ The objective was not simply to build a dashboard.
 
 The objective was to understand why management was struggling to get a reliable view of the business, improve the underlying information structure, analyse performance and turn the data into useful management insight.
 
+
+## Project Files
+
+📄 [Read the Full Consulting Case Study](case-study/ClearLedger_Vertex_Demonstration_Case_Study.pdf)
+
+📊 [Explore the KPI Analysis Workbook](analysis/ClearLedger_Vertex_KPI_Analysis.xlsx)
+
+📈 [View the Management Dashboard & Insight Pack](dashboard/ClearLedger_Vertex_Dashboard_Insight_Pack.xlsx)
+
+🗂️ [Explore the Cleaned & Controlled Dataset](data/ClearLedger_Vertex_Clean_Controlled.xlsx)
+
 ---
 
 ## The Business Problem
